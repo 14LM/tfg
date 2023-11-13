@@ -32,16 +32,16 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item">
-                            <a class="nav-link" href="index.php">Inicio</a>
+                            <a class="nav-link" href="index.php">Inicio</a> 
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="index.php?page=habitos">Hábitos</a>
+                            <a class="nav-link" href="app/vistas/habito/listar.php">Hábitos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="index.php?page=calendario">Calendario</a>
+                            <a class="nav-link" href="app/vistas/calendario/ver.php">Calendario</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="index.php?page=diario">Diario</a>
+                            <a class="nav-link" href="app/vistas/diario/ver.php">Diario</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">Cerrar Sesión</a>

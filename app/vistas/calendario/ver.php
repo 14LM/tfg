@@ -20,7 +20,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container">
             <!-- Botón de retroceso -->
-            <a class="navbar-brand" href="index.php">Atrás</a>            
+            <a class="navbar-brand" href="/TFG/index.php">Atrás</a>            
         </div>
     </nav>        
     <h1>Calendario</h1>

@@ -55,6 +55,13 @@ class UsuarioController {
 
     // Otras funciones CRUD para usuarios (actualizar, eliminar) 
     // Función para actualizar información de un usuario
+
+public function registroUsuario($nombre,$correo,$contraseña){
+
+    
+}
+
+
 public function actualizarUsuario($id, $nombre, $correo, $contraseña) {
     global $conn;
     

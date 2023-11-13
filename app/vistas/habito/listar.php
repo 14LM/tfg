@@ -11,7 +11,7 @@
     <h2>Lista de Hábitos</h2>
 
 <!-- Botón para agregar un nuevo hábito -->
-<a href="index.php?page=habitos&accion=agregar" class="btn btn-primary mb-3">Agregar Hábito</a>
+<a href="app/vistas/habito/crear.php" class="btn btn-primary mb-3">Agregar Hábito</a>
 
 <table class="table table-striped">
     <thead>
